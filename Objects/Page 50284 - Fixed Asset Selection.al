@@ -232,7 +232,7 @@ page 50284 "Fixed Asset Selection"
                             DefaultDimMultiple: Page "Default Dimensions-Multiple";
                         begin
                             CurrPage.SETSELECTIONFILTER(FA);
-                            DefaultDimMultiple.SetMultiFA(FA);
+                            DefaultDimMultiple.SetMultiRecord(FA, FieldNo("No."));
                             DefaultDimMultiple.RUNMODAL;
                         end;
                     }
