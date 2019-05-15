@@ -1,6 +1,8 @@
 table 50280 "FA Act Header"
 {
-    // version NS.MK.Acts.2018
+
+    CaptionML = ENU = 'FA Act Header',
+                LVI = 'Pamatlīdzekļu dokumenta galvene';
 
     DrillDownPageID = "FA Act Documents";
     LookupPageID = "FA Act Documents";

@@ -1,7 +1,7 @@
 table 50281 "FA Act Line"
 {
-    // version NS.MK.Acts.2018
-
+    CaptionML = ENU = 'FA Act Line',
+                LVI = 'Pamatlīdzekļu dokumentu rinda';
 
     fields
     {
@@ -62,16 +62,17 @@ table 50281 "FA Act Line"
 
                 //FA.CALCFIELDS("FA Depr. Book Code");
                 FA.CLEARMARKS;
-                IF FA.FINDFIRST THEN REPEAT
-                                         if ActHdr."Low Value" then begin
-                                             IF FADepreciationBook.GET(FA."No.", Reportsetup."FA Dep. Book code for Low Val.") THEN
-                                                 FA.MARK(TRUE);
-                                             //FA.SETRANGE("FA Depr. Book Code", Reportsetup."FA Dep. Book code for Low Val.");
-                                         end else begin
-                                             IF FADepreciationBook.GET(FA."No.", Reportsetup."FA Dep. Book code for Assets") THEN
-                                                 FA.MARK(TRUE);
-                                             //FA.SETRANGE("FA Depr. Book Code", Reportsetup."FA Dep. Book code for Assets");
-                                         end;
+                IF FA.FINDFIRST THEN
+                    REPEAT
+                        if ActHdr."Low Value" then begin
+                            IF FADepreciationBook.GET(FA."No.", Reportsetup."FA Dep. Book code for Low Val.") THEN
+                                FA.MARK(TRUE);
+                            //FA.SETRANGE("FA Depr. Book Code", Reportsetup."FA Dep. Book code for Low Val.");
+                        end else begin
+                            IF FADepreciationBook.GET(FA."No.", Reportsetup."FA Dep. Book code for Assets") THEN
+                                FA.MARK(TRUE);
+                            //FA.SETRANGE("FA Depr. Book Code", Reportsetup."FA Dep. Book code for Assets");
+                        end;
                     UNTIL FA.NEXT = 0;
 
                 FA.MARKEDONLY(TRUE);
@@ -107,7 +108,11 @@ table 50281 "FA Act Line"
                 if ActHdr.GET("Document Type", "Document No.") then begin
                     ActHdr.VALIDATE(ActHdr."Old Location Code", "Location Code");
                     ActHdr.VALIDATE(ActHdr."Old Responsible SP Code", "Responsible SP Code");
-                    ActHdr.MODIFY(true);
+                    if "Document Type" = "Document Type"::Reception then begin
+                        ActHdr.Validate("New Location Code", "Location Code");
+                        ActHdr.Validate("New Responsible SP Code", "Responsible SP Code");
+                    end;
+                    ActHdr.Modify(true);
                 end;
 
                 FALedgerEntry.RESET;

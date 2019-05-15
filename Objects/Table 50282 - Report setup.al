@@ -1,7 +1,5 @@
 table 50282 "Report setup"
 {
-    // version NS.MK.Acts.2018
-
     CaptionML = ENU = 'Report setup',
                 LVI = 'Atskaišu uzstādījumi';
 
