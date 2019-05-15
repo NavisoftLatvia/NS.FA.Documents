@@ -1,0 +1,23 @@
+{
+  "id": "5bdf9707-0066-404b-a67d-96641cc5fed1",
+  "name": "Fixed Asset Acts By Navisoft",
+  "publisher": "Navisoft",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "http://www.navisoft.lv/privacy-policy.php",
+  "EULA": "http://www.navisoft.lv/privacy-policy.php",
+  "help": "http://www.navisoft.lv/privacy-policy.php",
+  "url": "http://www.navisoft.lv",
+  //"logo": "logo.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50280,
+    "to": 50290
+  },
+  "runtime": "2.4"
+}

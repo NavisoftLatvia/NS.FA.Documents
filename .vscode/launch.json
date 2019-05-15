@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Navisoft BC",
+            "server": "http://sandbox",
+            "serverInstance": "NAV",
+            "tenant": "",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}
