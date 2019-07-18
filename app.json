@@ -9,7 +9,7 @@
   "EULA": "http://www.navisoft.lv/privacy-policy.php",
   "help": "http://www.navisoft.lv/privacy-policy.php",
   "url": "http://www.navisoft.lv",
-  //"logo": "logo.jpg",
+  "logo": "logo.jpg",
   "capabilities": [],
   "dependencies": [],
   "screenshots": [],
@@ -19,5 +19,6 @@
     "from": 50280,
     "to": 50290
   },
-  "runtime": "2.4"
+  "runtime": "2.4",
+  "showMyCode":true
 }

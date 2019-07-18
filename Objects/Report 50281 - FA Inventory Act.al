@@ -2,8 +2,7 @@ report 50281 "FA Inventory Act"
 {
     // version NS.MK.Acts.2018
 
-    RDLCLayout = './FA Inventory Act.rdlc';
-    WordLayout = './FA Inventory Act.docx';
+    WordLayout = './Objects/FA Inventory Act.docx';
     CaptionML = ENU = 'FA Inventory Act',
                 LVI = 'PL Inventarizācijas akts';
     DefaultLayout = Word;
@@ -208,8 +207,9 @@ report 50281 "FA Inventory Act"
                     FALedgerEntry.RESET;
                     FALedgerEntry.SETRANGE(FALedgerEntry."FA No.", "FA Act Line"."FA No.");
                     FALedgerEntry.SETFILTER(FALedgerEntry."FA Posting Type", '%1', FALedgerEntry."FA Posting Type"::"Acquisition Cost");
-                    IF FALedgerEntry.FINDFIRST THEN REPEAT
-                                                        UnitPrice += FALedgerEntry.Amount;
+                    IF FALedgerEntry.FINDFIRST THEN
+                        REPEAT
+                            UnitPrice += FALedgerEntry.Amount;
                         UNTIL FALedgerEntry.NEXT = 0;
 
                     FASetup.GET();

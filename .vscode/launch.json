@@ -8,7 +8,7 @@
             "server": "http://sandbox",
             "serverInstance": "NAV",
             "tenant": "",
-            "authentication": "Windows",
+            "authentication": "UserPassword",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true

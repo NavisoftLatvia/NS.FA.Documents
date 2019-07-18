@@ -2,8 +2,7 @@ report 50282 "FA Transfer Act"
 {
     // version NS.MK.Acts.2018
 
-    RDLCLayout = './FA Transfer Act.rdlc';
-    WordLayout = './FA Transfer Act.docx';
+    WordLayout = './Objects/FA Transfer Act.docx';
     CaptionML = ENU = 'FA Transfer Act',
                 LVI = 'PL Pārvietošanas akts';
     DefaultLayout = Word;
@@ -208,8 +207,9 @@ report 50282 "FA Transfer Act"
                     FALedgerEntry.RESET;
                     FALedgerEntry.SETRANGE(FALedgerEntry."FA No.", "FA Act Line"."FA No.");
                     FALedgerEntry.SETFILTER(FALedgerEntry."FA Posting Type", '%1', FALedgerEntry."FA Posting Type"::"Acquisition Cost");
-                    IF FALedgerEntry.FINDFIRST THEN REPEAT
-                                                        UnitPrice += FALedgerEntry.Amount;
+                    IF FALedgerEntry.FINDFIRST THEN
+                        REPEAT
+                            UnitPrice += FALedgerEntry.Amount;
                         UNTIL FALedgerEntry.NEXT = 0;
 
                     FASetup.GET();

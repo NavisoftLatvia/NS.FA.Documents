@@ -2,8 +2,7 @@ report 50280 "FA Receipt Act"
 {
     // version NS.MK.Acts.2018
 
-    RDLCLayout = './FA Receipt Act.rdlc';
-    WordLayout = './FA Receipt Act.docx';
+    WordLayout = './Objects/FA Receipt Act.docx';
     CaptionML = ENU = 'Act Receipt Act',
                 LVI = 'PL Pieņemšanas akts';
     DefaultLayout = Word;
@@ -140,7 +139,6 @@ report 50280 "FA Receipt Act"
                 column(VendorDocument; VendorDocument)
                 {
                 }
-
                 trigger OnAfterGetRecord();
                 var
                     DeprBook: Record "FA Depreciation Book";
@@ -167,8 +165,9 @@ report 50280 "FA Receipt Act"
                     FALedgerEntry.RESET;
                     FALedgerEntry.SETRANGE(FALedgerEntry."FA No.", "FA Act Line"."FA No.");
                     FALedgerEntry.SETFILTER(FALedgerEntry."FA Posting Type", '%1', FALedgerEntry."FA Posting Type"::"Acquisition Cost");
-                    IF FALedgerEntry.FINDFIRST THEN REPEAT
-                                                        UnitPrice += FALedgerEntry.Amount;
+                    IF FALedgerEntry.FINDFIRST THEN
+                        REPEAT
+                            UnitPrice += FALedgerEntry.Amount;
                         UNTIL FALedgerEntry.NEXT = 0;
 
                     FASetup.GET();

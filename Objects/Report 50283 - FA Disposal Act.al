@@ -2,8 +2,7 @@ report 50283 "FA Disposal Act"
 {
     // version NS.MK.Acts.2018
 
-    RDLCLayout = './FA Disposal Act.rdlc';
-    WordLayout = './FA Disposal Act.docx';
+    WordLayout = './Objects/FA Disposal Act.docx';
     CaptionML = ENU = 'FA Disposal Act',
                 LVI = 'PL Likvidācijas akts';
     DefaultLayout = Word;
@@ -185,8 +184,9 @@ report 50283 "FA Disposal Act"
                     FALedgerEntry.RESET;
                     FALedgerEntry.SETRANGE(FALedgerEntry."FA No.", "FA Act Line"."FA No.");
                     FALedgerEntry.SETFILTER(FALedgerEntry."FA Posting Type", '%1', FALedgerEntry."FA Posting Type"::"Acquisition Cost");
-                    IF FALedgerEntry.FINDFIRST THEN REPEAT
-                                                        UnitPrice += FALedgerEntry.Amount;
+                    IF FALedgerEntry.FINDFIRST THEN
+                        REPEAT
+                            UnitPrice += FALedgerEntry.Amount;
                         UNTIL FALedgerEntry.NEXT = 0;
 
                     FASetup.GET();
