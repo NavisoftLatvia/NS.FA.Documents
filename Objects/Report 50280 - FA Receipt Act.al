@@ -1,7 +1,5 @@
 report 50280 "FA Receipt Act"
 {
-    // version NS.MK.Acts.2018
-
     WordLayout = './Objects/FA Receipt Act.docx';
     CaptionML = ENU = 'Act Receipt Act',
                 LVI = 'PL Pieņemšanas akts';
@@ -245,33 +243,8 @@ report 50280 "FA Receipt Act"
         }
     }
 
-    labels
-    {
-        ReportCapt1 = 'Pamatlīdzekļu un inventāra'; ReportCapt2 = 'Datortehnikas'; IzsniedzejsLbl = 'Izsniedzējs(-a):'; SanemejsLbl = 'Saņēmējs(-a):'; IzsniedzaLbl = 'Izsniedza:'; SanemaLbl = 'Saņēma:'; Signature1Lbl = '(Amats, vārds, uzvārds)'; Signature2Lbl = '(datums, paraksts, paraksta atšifrējums)'; Phrase1lbl = 'Pamatojoties uz Valsts kontroles darba procesa "Valsts kontroles materiāltehniskās darbības nodrošināšana" aprakstu, sastāda šādu aktu:'; Phrase2lbl = '1. Izsniedzējs izsniedz, bet saņēmējs pieņem lietošanā šādus pamatlīdzekļus un inventāru:'; label(LineCounterCapt; ENU = 'No.',
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                LVI = 'Nr. p.k.')
-        LineDescrCapt = 'Materiālās vērtības nosaukums, sērijas Nr.'; LineNoCapt = 'Inventāra Nr.'; label(LineQtyCapt; ENU = 'Quantity',
-                                                                                                                    LVI = 'Daudzums')
-        label(LineCenaCapt; ENU = 'Price',
-                           LVI = 'Cena')
-        label(LineAmountCapt; ENU = 'Total',
-                             LVI = 'Summa')
-        label(LabelPurchaseValue; ENU = 'Purchase value',
-                                 LVI = 'Iegādes vērtība')
-        IT_1 = 'Saskaņā ar Valsts kontroles darba procesa "Informācijas tehnoloģiju pārvaldība" aprakstu, sastāda šādu aktu:'; IT_2 = '1. Izsniedzējs izsniedz, bet saņēmējs pieņem lietošanā šādu datortehniku vai piederumus:'; IT_3 = '2. Datortehnika vai piederumi ir izsniegti saņēmējam Valsts kontroles telpās kabineta numurs. kabinetā, Skanstes ielā 50, Rīgā.'; IT_4 = '3. Saņēmējs ir pārbaudījis pieņemšanas un nodošanas aktā minētās datortehnikas vai piederumu atbilstību, salīdzinot pieņemšanas un nodošanas aktā minētās datortehnikas vai piederumu inventāra numurus ar inventāra numuriem uz datortehnikas vai piederumiem.'; IT_5 = '4. Saņēmējs, lietojot datortehniku apņemas ievērot Valsts kontroles darba procesa "Informācijas tehnoloģiju pārvaldība" apraksta 6.24.7.apakšpunktā noteiktos ekspluatācijas nosacījumus.'; IT_6 = '5. Šis pieņemšanas un nodošanas akts ir sastādīts uz vienas lapas divos eksemplāros pa vienam eksemplāram katrai pusei.';
-    }
-
     var
-        Salespers: Record "Salesperson/Purchaser";
         FALedgerEntry: Record "FA Ledger Entry";
-        Text001_RepHdr2: TextConst ENU = 'pieņemšanas un nodošanas (kustības) akts Nr. %1', LVI = 'pieņemšanas un nodošanas (kustības) akts Nr. %1';
-        Text002_City: Label 'Rīgā';
-        Text003_Phrase0: Label 'Pamatojoties uz Valsts kontroles darba procesa "Valsts kontroles materiāltehniskās darbības nodrošināšana" aprakstu, sastāda šādu aktu:';
-        Text004_Phrase1: Label '1. Izsniedzējs izsniedz, bet saņēmējs pieņem lietošanā šādus pamatlīdzekļus un inventāru:';
-        Text005_Phrase2: Label '2. Pamatlīdzekļi un inventārs tiek nodoti lietošanai Valsts kontroles telpās %1. kabinetā, Skanstes ielā 50, Rīgā.';
-        Text006_Phrase3: Label '3. Saņēmējs ir pārbaudījis pieņemšanas un nodošanas aktā minēto pamatlīdzekļu un inventāra atbilstību, salīdzinot pieņemšanas aktā minēto pamatlīdzekļu un inventāra  numurus ar inventāra numuriem uz pamatlīdzekļiem un inventāra.';
-        Text007_Phrase4: Label '"4. Saņēmējs, lietojot pamatlīdzekļus un inventāru, apņemas ievērot Valsts kontroles darba procesa ""Valsts kontroles materiāltehniskās darbības nodrošināšana"" apraksta 3.8. apakšpunktā noteiktos ekspluatācijas nosacījumus. "';
-        Text008_Phrase5: Label '5. Šis pieņemšanas un nodošanas akts ir sastādīts uz vienas lapas trijos eksemplāros pa vienam eksemplāram katrai pusei un Finanšu un budžeta plānošanas daļai.';
-        IT_3: Label '2. Datortehnika vai piederumi ir izsniegti saņēmējam Valsts kontroles telpās %1. kabinetā, Skanstes ielā 50, Rīgā.';
         FADepreciationBook: Record "FA Depreciation Book";
         FASetup: Record "FA Setup";
         FAPostingGroup: Record "FA Posting Group";

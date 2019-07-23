@@ -18,10 +18,7 @@ codeunit 50280 "Convert To Words"
         Hundreds: Integer;
         _AmountTextIndex: Integer;
         Exponent: Integer;
-        LsText1: Text[30];
-        LsTextM: Text[30];
-        SantText1: Text[30];
-        SantTextM: Text[30];
+
         EURText1: Text[30];
         EURTextM: Text[30];
         CentText1: Text[30];
@@ -29,12 +26,9 @@ codeunit 50280 "Convert To Words"
         MonthText: array[12] of Text[30];
         YearText: Text[30];
         ForeignCurrency: Record Currency;
-        Text001: TextConst ENU = 'Invalid Language parameter - In Words codeunit', LVI = 'Nederīgs valodas parametrs koda blokā Uz vārdiem';
         Text002: TextConst ENU = '%1 results in a written number that is too long.', LVI = '%1 rezultātā ierakstās pārāk garš numurs.';
         GeneralLedgerSetup: Record "General Ledger Setup";
         TextLanguage: Text;
-        i1: Text[30];
-        Lithuanian: Boolean;
 
     procedure Amount2Words(_Amount: Decimal; CurrencyCode: Code[10]): Text[250];
     var

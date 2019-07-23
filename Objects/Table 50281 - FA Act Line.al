@@ -67,11 +67,9 @@ table 50281 "FA Act Line"
                         if ActHdr."Low Value" then begin
                             IF FADepreciationBook.GET(FA."No.", Reportsetup."FA Dep. Book code for Low Val.") THEN
                                 FA.MARK(TRUE);
-                            //FA.SETRANGE("FA Depr. Book Code", Reportsetup."FA Dep. Book code for Low Val.");
                         end else begin
                             IF FADepreciationBook.GET(FA."No.", Reportsetup."FA Dep. Book code for Assets") THEN
                                 FA.MARK(TRUE);
-                            //FA.SETRANGE("FA Depr. Book Code", Reportsetup."FA Dep. Book code for Assets");
                         end;
                     UNTIL FA.NEXT = 0;
 
@@ -198,8 +196,6 @@ table 50281 "FA Act Line"
                         LVI = 'Koriģēšanas lietotājs';
             Editable = false;
             TableRelation = User;
-            //This property is currently not supported
-            //TestTableRelation = false;
             ValidateTableRelation = false;
 
             trigger OnLookup();

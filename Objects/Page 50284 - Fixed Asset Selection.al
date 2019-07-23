@@ -632,7 +632,6 @@ page 50284 "Fixed Asset Selection"
 
     trigger OnAfterGetRecord();
     begin
-        //CRI-2061
         if FAClass.GET(Rec."FA Class Code") then
             FaClassName := FAClass.Name;
         if FASubclass.GET(Rec."FA Subclass Code") then
@@ -647,9 +646,7 @@ page 50284 "Fixed Asset Selection"
             AcquisitionCost := FADeprBook."Acquisition Cost";
             DeprBookValue := FADeprBook."Book Value";
         end;
-        //CRI-2061
 
-        //FKD-PAM, CRI-2061 ->
         WriteDownDate := 0D;
         if FADepreciationBook."Book Value" = 0 then begin
             FALedgerEntry.SETRANGE("FA No.", "No.");
@@ -657,14 +654,12 @@ page 50284 "Fixed Asset Selection"
             if FALedgerEntry.FINDLAST then
                 WriteDownDate := FALedgerEntry."Posting Date";
         end;
-        //FKD-PAM, CRI-2061 <-
     end;
 
     var
         AB001: TextConst ENU = 'No filters applied. Apply a filter and try again.', LVI = 'Nav piemēroti filtri. Piemērojiet tos un pamēģiniet vēlreiz. ';
         AB002: TextConst ENU = 'Apply %1 to %2 records?', LVI = 'Piemērot %1 attiecībā uz %2 ierakstiem?';
         AB003: TextConst ENU = '%1 records updated.', LVI = '%1 ieraksti ir atjaunināti.';
-        AB004: TextConst ENU = 'No filters applied. Continue?', LVI = 'Nav piemēroti filtri. Turpināt darbību?';
         FAClass: Record "FA Class";
         FASubclass: Record "FA Subclass";
         FALocation: Record "FA Location";
@@ -675,7 +670,6 @@ page 50284 "Fixed Asset Selection"
         FALocationName: Text[250];
         DeprBookValue: Decimal;
         AcquisitionCost: Decimal;
-        "__CRI-2061__": Integer;
         WriteDownDate: Date;
         FADepreciationBook: Record "FA Depreciation Book";
         FALedgerEntry: Record "FA Ledger Entry";

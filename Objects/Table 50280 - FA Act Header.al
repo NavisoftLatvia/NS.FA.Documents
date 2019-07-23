@@ -523,8 +523,6 @@ table 50280 "FA Act Header"
         if xRec.Type = Rec.Type then
             exit;
 
-        // act has been creteated with default type from FA Card and can be changed
-
         case Type of
             Type::Reception:
                 begin

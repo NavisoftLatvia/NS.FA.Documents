@@ -1,10 +1,5 @@
 page 50283 "FA Act Documents"
 {
-    // version NS.MK.Acts.2018
-
-    // 150416 EP.JG
-    //   * added field "ResponsAct Number"
-
     CaptionML = ENU = 'FA Act Documents',
                 LVI = 'PL aktu dokumenti';
     CardPageID = "FA Act Document";
