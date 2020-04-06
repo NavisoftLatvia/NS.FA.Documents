@@ -4,9 +4,9 @@
         {
             "type": "al",
             "request": "launch",
-            "name": "Navisoft BC",
+            "name": "BC",
             "server": "http://sandbox",
-            "serverInstance": "NAV",
+            "serverInstance": "bc",
             "tenant": "",
             "authentication": "UserPassword",
             "startupObjectId": 22,

@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="lv-LV" original="Fixed Asset Acts">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1958248674 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Act Header</source>
+          <target>PL Aktu virsraksts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="translated">Tips</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reception,Transfer,Disposal,Inventory</source>
+          <target>Saņemšana,Pārvietošana,Likvidācija,Inventarizācija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Datums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3966228849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Low Value</source>
+          <target>Mazvērtīgais inventārs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Low Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <target>Nodots</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4020758431 - Method 2126772001 - NamedType 3116180805" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to block current Fixed Asset?</source>
+          <target>Vai vēlaties bloķēt izvēlētos pamatlīdzekļus?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Released - Method OnValidate - NamedType text_Block</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 572750435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released Date</source>
+          <target>Nodots datumā</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Released Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3516735208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Location Code</source>
+          <target>Jauns novietojuma kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field New Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1804313498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Responsible Employee Code</source>
+          <target>Jaunā atbildīgā darbinieka kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field New Responsible SP Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4134542802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Location</source>
+          <target>Jauns novietojums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field New Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3554356960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Responsible Employee</source>
+          <target>Jauns atbildīgais darbinieks</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field New Responsible SP Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2775566589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Subclass Code</source>
+          <target>PL apakšklases kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field New Subclass Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3123395505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Old Location Code</source>
+          <target>Iepriekšējais novietojuma kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Old Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4152317247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Old Responsible Employee</source>
+          <target>Iepriekšējais atbildīgais darbinieks</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Old Responsible SP Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3868875991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Location</source>
+          <target>Jauns novietojums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Old Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 6554185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Old Responsible Employee</source>
+          <target>Iepriekšējais atbildīgais darbinieks</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Old Responsible SP Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 599113428 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Subclass Code</source>
+          <target>PL apakšklases kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Old Subclass Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2653931017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>President Of Commission Code</source>
+          <target state="translated">Komisijas priekšsēdētāja kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field President Of Commission Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3746987839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>President Of Commission Name</source>
+          <target state="translated">Komisijas priekšsēdētāja vārds</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field President Of Commission Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3450749037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 1 Code</source>
+          <target state="translated">1. komisijas locekļa kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1502145635 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 1 Name</source>
+          <target state="translated">1. komisijas locekļa vārds</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 1 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4024555980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 2 Code</source>
+          <target state="translated">2. komisijas locekļa kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 116812150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 2 Name</source>
+          <target state="translated">2. komisijas locekļa vārds</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 2 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1843329963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 3 Code</source>
+          <target state="translated">3. komisijas locekļa kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 3 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 868590149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 3 Name</source>
+          <target state="translated">3. komisijas locekļa vārds</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 3 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1585569098 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 4 Code</source>
+          <target state="translated">4. komisijas locekļa kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 4 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1219311440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Commission 4 Name</source>
+          <target state="translated">4. komisijas locekļa vārds</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Commission 4 Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 369433484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aproved by person code</source>
+          <target state="translated">Apstiprinātāja kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Aproved by person code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 756656950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aproved by person name</source>
+          <target state="translated">Apstiprinātāja vārds</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Aproved by person name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3471137671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Rindas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2579332930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entering User</source>
+          <target state="translated">Izveidoja lietotājs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Insert User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1823802730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entering Date</source>
+          <target state="translated">Izveidots datumā</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Insert DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2648089371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modifying User</source>
+          <target state="translated">Modificēja lietotājs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Modify User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 868655139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modifying Date</source>
+          <target state="translated">Modificēts datumā</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Modify DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4060577957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Act number</source>
+          <target state="translated">Dokumenta Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field ResponsAct Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2696732215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Temp First Resp. Act No.</source>
+          <target state="translated">Pirmā saistītā akta Nr. (laicīgais)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Temp First Resp. Act No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2958034619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Temp SalesPerson</source>
+          <target state="translated">Pārdevējs (laicīgais)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Temp SalesPerson - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1704747102 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>President Of Comm. Job Title</source>
+          <target state="translated">Komisijas priekšsēdētāja amats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field President Of Comm. Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4156264898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Comm. 1 Job Title</source>
+          <target state="translated">1. komisijas locekļa amats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Comm. 1 Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 2106239079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Comm. 2 Job Title</source>
+          <target state="translated">2. komisijas locekļa amats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Comm. 2 Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 4182457072 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Comm. 3 Job Title</source>
+          <target state="translated">3. komisijas locekļa amats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Comm. 3 Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 742285341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Members Of Comm. 4 Job Title</source>
+          <target state="translated">4. komisijas locekļa amats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Members Of Comm. 4 Job Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1892783262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aproved by person job title</source>
+          <target state="translated">Apstiprinātāja amats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Aproved by person job title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 3314941242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warrant Number</source>
+          <target state="translated">Pavēles Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Warrant Number - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1284067923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warrant Date</source>
+          <target state="translated">Pavēles datums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Warrant date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 439724846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason Of Disposal</source>
+          <target state="translated">Norakstīšanas iemesls</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Reason Of Disposal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 1321864875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comission Closure</source>
+          <target state="translated">Komisijas slēdziens</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Comission Closure - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 698051683 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Act Statuss</source>
+          <target state="translated">Dokumenta statuss</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Act Statuss - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1958248674 - Field 698051683 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prepared,Completed,Canceled</source>
+          <target state="translated">Sagatavots,Noslēgts,Atcelts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Header - Field Act Statuss - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Act Line</source>
+          <target state="translated">PL Dokumenta rinda</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="translated">Dokumenta tips</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2363328873 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reception,Transfer,Disposal,Inventory</source>
+          <target state="translated">Saņemšana,Pārvietošana,Likvidācija,Inventarizācija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Document Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="translated">Dokumenta Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="translated">Rindas Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1991001892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA No.</source>
+          <target state="translated">PL numurs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Daudzums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <target state="translated">Vienības cena</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Summa</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1982396155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Apraksts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 800853322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA History Entry No.</source>
+          <target state="translated">PL Vēstures ieraksta datums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA History Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2579332930 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entering User</source>
+          <target state="translated">Izveidoja lietotājs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Insert User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1823802730 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entering Date</source>
+          <target state="translated">Izveidots datumā</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Insert DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2648089371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modifying User</source>
+          <target state="translated">Modificēja lietotājs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Modify User - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 868655139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modifying Date</source>
+          <target state="translated">Modificēts datumā</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Modify DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1039160141 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disposal reason</source>
+          <target state="translated">Likvidācijas iemesls</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Disposal reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1540191086 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsible Employee</source>
+          <target state="translated">Atbildīgais darbinieks</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Responsible SP Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target state="translated">Novietojuma kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1602339052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Subclass Code</source>
+          <target state="translated">PL apakšklases kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Subclass Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1188465085 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target state="translated">Apraksts 2</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2623241739 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Ledger Entry No.</source>
+          <target state="translated">PL Grāmatas ieraksta Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Ledger Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2491493630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Ledger Entry Date</source>
+          <target state="translated">PL Grāmatas ieraksta datums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Ledger Entry Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 467504498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Ledger Entry Document No.</source>
+          <target state="translated">PL Grāmatas ieraksta dokumenta Nr.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Ledger Entry Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2120232334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acquisition Cost</source>
+          <target state="translated">Iepirkuma vērtība</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Acquisition Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 267022291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Depreciation</source>
+          <target state="translated">Nolietojums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Depreciation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2967480878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Value</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field Book Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2987683637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Posting Date Filter</source>
+          <target state="translated">PL grāmatošanas datuma filtrs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Posting Date Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 2779351937 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Depreciation Book Filter</source>
+          <target state="translated">Nolietojuma grāmatas filtrs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Depreciation Book Filter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 112205033 - Field 1881430486 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Depreciation Book Filter</source>
+          <target state="translated">Nolietojuma grāmatas filtrs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FA Act Line - Field FA Depreciation Book Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Report setup</source>
+          <target state="translated">Atskaišu iestatījumi</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 2104648824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary</source>
+          <target state="translated">Primārā atslēga</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field Primary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 3416482363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Receipt Act No. Series</source>
+          <target state="translated">PL pieņemšanas aktu num. sērija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field FA Receipt Act No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 981026546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Transfer Act No. Series</source>
+          <target state="translated">PL pārvietošanas aktu num. sērija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field FA Transfer Act No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 1693394950 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Disposal Act No. Series</source>
+          <target state="translated">PL norakstīšanas aktu num. sērija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field FA Disposal Act No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 75663393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Inventory Act No. Series</source>
+          <target state="translated">PL inventarizācijas aktu num. sērija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field FA Inventory Act No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 2305336928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Dep. Book code for Assets</source>
+          <target state="translated">Pamatlīdzekļu nolietojumu grāmatas kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field FA Dep. Book code for Assets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2018935443 - Field 780792154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Dep. Book code for Low Valuable Inventory</source>
+          <target state="translated">Mazv. inv. nolietojumu grāmatas kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Report setup - Field FA Dep. Book code for Low Val. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1117563603 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 results in a written number that is too long.</source>
+          <target state="translated">%1 rezultāts ir pārāk liels priekš numuru vērtības.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Convert To Words - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Act Document</source>
+          <target state="translated">PL Dokumenti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Visp. info.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 3512194100 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control GeneralInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 2341705608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Varrant - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 3123395505 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target state="translated">Novietojuma kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Old Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 3868875991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <target state="translated">Novietojums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Old Location Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 4152317247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsible Employee</source>
+          <target state="translated">Atbildīgais darbinieks</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Old Responsible SP Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 6554185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsible Employee</source>
+          <target state="translated">Atbildīgais darbinieks</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Old Responsible SP Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 414592805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comision Decision</source>
+          <target state="translated">Komisijas slēdziens</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Comision Decision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 997068994 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Commision</source>
+          <target state="translated">Komisija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Commision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 4238457867 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Commision Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 4247693821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Members - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 3242088303 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>System</source>
+          <target state="translated">Sistēma</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control System - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 2661063284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control Document Statuss - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Control 2347236626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Control User Control - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 2675496269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process</source>
+          <target state="translated">Apstrāde</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Process - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 3948859433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill By Default</source>
+          <target state="translated">Aizpildīt pēc noklusējuma</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action FillByDefault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 1730580216 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release</source>
+          <target state="translated">Nodot</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Releasing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 404084473 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;lease</source>
+          <target state="translated">Nodot</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action ReleaseAct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 2370131791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Re&amp;open</source>
+          <target state="translated">Atvērt no jauna</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action ReopenAct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 1882025967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mass Assign</source>
+          <target state="translated">Masveida piesaistīšana</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Mass Assign - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 2097472333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign Employee</source>
+          <target state="translated">Piesaistīt darbinieku</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Assign Employee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 2097472333 - Method 1377591017 - NamedType 892660867" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply %1 to %2 records?</source>
+          <target state="translated">Attiecināt %1 %2 ierakstiem?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Assign Employee - Method OnAction - NamedType AB002</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 2097472333 - Method 1377591017 - NamedType 1530357484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 records updated.</source>
+          <target state="translated">%1 ieraksti ir atjaunoti.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Assign Employee - Method OnAction - NamedType AB003</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 465588448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign Location</source>
+          <target state="translated">Piesaistīt novietojumu</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Assign Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 465588448 - Method 1377591017 - NamedType 892660867" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply %1 to %2 records?</source>
+          <target state="translated">Attiecināt %1 %2 ierakstiem?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Assign Location - Method OnAction - NamedType AB002</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 465588448 - Method 1377591017 - NamedType 1530357484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 records updated.</source>
+          <target state="translated">%1 ieraksti ir atjaunoti.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Assign Location - Method OnAction - NamedType AB003</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 499389060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Disposal Journal Entries</source>
+          <target state="translated">Izveidot norakstīšanas žurnāla ierakstus</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Create Disposal Journal Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 499389060 - Method 1377591017 - NamedType 2805750718" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do You want to dispose %1 fixed assets?</source>
+          <target state="translated">Vai vēlaties likvidēt %1 pamatlīdzekļus?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Create Disposal Journal Entries - Method OnAction - NamedType AB001</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 499389060 - Method 1377591017 - NamedType 892660867" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are not allowed to continue withou filters applied. Please, apply a filter and try again.</source>
+          <target state="translated">Jums nav tiesības veikt šo darbību bez pre-definētiem filtriem. Lūdzu atlasiet filtrus un mēģiniet vēlreiz!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Create Disposal Journal Entries - Method OnAction - NamedType AB002</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 499389060 - Method 1377591017 - NamedType 1530357484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Template is not selected. Please, select one and try again.</source>
+          <target state="translated">Žurnāla veidnes kods nav aizpildīts!\Lūdzu aizpildiet to un mēģiniet vēlreiz!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Create Disposal Journal Entries - Method OnAction - NamedType AB003</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 499389060 - Method 1377591017 - NamedType 3912234929" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch is not selected. Please, select one and try again.</source>
+          <target state="translated">Žurnāla iedaļas kods nav aizpildīts!\Lūdzu aizpildiet to un mēģiniet vēlreiz!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Create Disposal Journal Entries - Method OnAction - NamedType AB004</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 499389060 - Method 1377591017 - NamedType 254964250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date cannot be empty. Please, enter it and try again.</source>
+          <target state="translated">Grāmatošanas datums nav aizpildīts!\Lūdzu aizpildiet to un mēģiniet vēlreiz!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action Create Disposal Journal Entries - Method OnAction - NamedType AB005</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 1344672713 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Print</source>
+          <target state="translated">Drukāt</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action &amp;Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Action 796867082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <target state="translated">Drukāt</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Action PrintCurrentAct - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Method 1146877244 - NamedType 4207128394" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reception,Transfer,Disposal,Inventory</source>
+          <target state="translated">Saņemšana,Pārvietošana,Likvidācija,Inventarizācija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Method OnNewRecord - NamedType OptText</note>
+        </trans-unit>
+        <trans-unit id="Page 1610492338 - Method 1146877244 - NamedType 19034527" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please, select document type</source>
+          <target state="translated">Lūdzu izvēlaties dokumenta tipu!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Document - Method OnNewRecord - NamedType OptReq</note>
+        </trans-unit>
+        <trans-unit id="Page 1837955996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Rindas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Doc. Subp. Lines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1837955996 - Control 1568542619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <target state="translated">Rindas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Doc. Subp. Lines - Control Rows - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1837955996 - Action 343094046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Multiple Assets</source>
+          <target state="translated">Pievienot vairākus PL</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Doc. Subp. Lines - Action AddMultipleAssets - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1837955996 - Method 3805063311 - NamedType 1385898402" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Collecting Assets @@@@@@1@@@@@@</source>
+          <target state="translated">Veido PL sarakstu @@@@@@1@@@@@@</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Doc. Subp. Lines - Method AddMultipleFAActLines - NamedType guiText</note>
+        </trans-unit>
+        <trans-unit id="Page 548987082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Act Setup</source>
+          <target state="translated">PL dokumentu uzstādījumi</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 548987082 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="translated">Visp. info.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Setup - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386520511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Act Documents</source>
+          <target state="translated">PL Dokumenti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1386520511 - Action 2577018784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Documents Setup</source>
+          <target state="translated">PL Dokumentu uzstādījumi</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Act Documents - Action FA Documents Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset List</source>
+          <target state="translated">PL saraksts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a number for the fixed asset.</source>
+          <target state="translated">Apzīmē PL numuru.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the fixed asset.</source>
+          <target state="translated">Apzīmē PL aprakstu.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 615729165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disposal Date</source>
+          <target state="translated">Likvidācijas datums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control DisposalDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 1474138314 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which employee is responsible for the fixed asset.</source>
+          <target state="translated">Nosaka par PL atbildīgu lietotāju.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Responsible Employee - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 2990166704 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the class that the fixed asset belongs to.</source>
+          <target state="translated">Nosaka PL piederības klasi.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control FA Class Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3662863514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Class Name</source>
+          <target state="translated">PL klase</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control FaClassName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 1602339052 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the subclass of the class that the fixed asset belongs to.</source>
+          <target state="translated">Nosaka PL apakšklasi.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control FA Subclass Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3766870566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Subclass Name</source>
+          <target state="translated">PL apakšklase</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control FASubClassName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 2357346185 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location, such as a building, where the fixed asset is located.</source>
+          <target state="translated">Nosaka PL novietojumu.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control FA Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3733255383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Location Name</source>
+          <target state="translated">PL novietojuma nosaukums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control FALocationName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 1180181476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a search description for the fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Search Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3384699096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the fixed asset has been acquired.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Acquired - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 351062335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Depreciation Book Code</source>
+          <target state="translated">Nolietojuma grāmatas kods</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control DeprBookName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 1953998670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acquisition Cost</source>
+          <target state="translated">Iepirkuma vērtība</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control AcquisitionCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3947734251 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Book Value</source>
+          <target state="translated">Grāmatvedības vērtība</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control DeprBookValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 553674544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the asset is for budgeting purposes.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Budgeted Asset - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 1527594213 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the vendor from which you purchased this fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Control 3097337210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the vendor who performs repairs and maintenance on the fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Control Maintenance Vendor No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2192130036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed &amp;Asset</source>
+          <target state="translated">Pamatlīdzeklis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed &amp;Asset - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2478624519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Depreciation &amp;Books</source>
+          <target state="translated">Nolietojuma grāmatas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Depreciation &amp;Books - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2478624519 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit the depreciation book or books that must be used for each of the fixed assets. Here you also specify the way depreciation must be calculated.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Depreciation &amp;Books - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 84074407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <target state="translated">Statistika</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 84074407 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed historical information about the fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Statistics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2173385693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions</source>
+          <target state="translated">Dimensijas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Dimensions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 937422408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions-Single</source>
+          <target state="translated">Dimensijas-Viena</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Dimensions-Single - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 937422408 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit the single set of dimensions that are set up for the selected record.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Dimensions-Single - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1990766644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimensions-&amp;Multiple</source>
+          <target state="translated">Dimensijas-Vairākas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Dimensions-&amp;Multiple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1990766644 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit dimensions for a group of records. You can assign dimension codes to transactions to distribute costs and analyze historical information.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Dimensions-&amp;Multiple - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 747981672 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Main&amp;tenance Ledger Entries</source>
+          <target state="translated">Uzturēšanas grāmatas ieraksti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Main&amp;tenance Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 747981672 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View all the maintenance ledger entries for a fixed asset. </source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Main&amp;tenance Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1594621544 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Picture</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Picture - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1594621544 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add or view a picture of the fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Picture - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 668829633 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Posting Types Overview</source>
+          <target state="translated">PL grāmatošanas tipu pārskats</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action FA Posting Types Overview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 668829633 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View accumulated amounts for each field, such as book value, acquisition cost, and depreciation, and for each fixed asset. For every fixed asset, a separate line is shown for each depreciation book linked to the asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action FA Posting Types Overview - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 3000180178 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co&amp;mments</source>
+          <target state="translated">Komentāri</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Co&amp;mments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1735913237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Main Asset</source>
+          <target state="translated">Galvenais pamatlīdzeklis</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Main Asset - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1612424507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>M&amp;ain Asset Components</source>
+          <target state="translated">Galvenā PL komponentes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action M&amp;ain Asset Components - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1612424507 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit fixed asset components of the main fixed asset that is represented by the fixed asset card.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action M&amp;ain Asset Components - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 188943716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ma&amp;in Asset Statistics</source>
+          <target state="translated">Galvenā PL statistika</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Ma&amp;in Asset Statistics - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 188943716 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed historical information about all the components that make up the main asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Ma&amp;in Asset Statistics - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1413124528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Separator45 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 4201773078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History</source>
+          <target state="translated">Vēsture</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1111476699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ledger E&amp;ntries</source>
+          <target state="translated">Grātas ieraksti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Ledger E&amp;ntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1111476699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed information about transactions made for the fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Ledger E&amp;ntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 196443409 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Ledger Entries</source>
+          <target state="translated">Kļūdu grāmatas ieraksti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Error Ledger Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 196443409 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the entries that have been posted as a result of you using the Cancel function to cancel an entry.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Error Ledger Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1862102638 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maintenance &amp;Registration</source>
+          <target state="translated">Uzturēšanas reģistrācija</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Maintenance &amp;Registration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1862102638 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or edit maintenance codes for the various types of maintenance, repairs, and services performed on your fixed assets. You can then enter the code in the Maintenance Code field on journals.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Maintenance &amp;Registration - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 4232171073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset Journal</source>
+          <target state="translated">PL Žurnāls</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Asset Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 4232171073 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Post fixed asset transactions with a depreciation book that is not integrated with the general ledger, for internal management. Only fixed asset ledger entries are created. "</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Asset Journal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 714858205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset G/L Journal</source>
+          <target state="translated">PL V/G žurnāls</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Asset G/L Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 714858205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Post fixed asset transactions with a depreciation book that is integrated with the general ledger, for financial reporting. Both fixed asset ledger entries are general ledger entries are created. "</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Asset G/L Journal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1958970346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset Reclassification Journal</source>
+          <target state="translated">PL Pārklasificēšanas ieraksti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Asset Reclassification Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1958970346 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transfer, split, or combine fixed assets.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Asset Reclassification Journal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2550189034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recurring Fixed Asset Journal</source>
+          <target state="translated">Periodiskie PL žurnāli</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Recurring Fixed Asset Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2550189034 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post recurring entries to a depreciation book without integration with general ledger.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Recurring Fixed Asset Journal - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1719837351 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Depreciation</source>
+          <target state="translated">Aprēķināt nolietojumu</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action CalculateDepreciation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1719837351 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate depreciation according to conditions that you specify. If the related depreciation book is set up to integrate with the general ledger, then the calculated entries are transferred to the fixed asset general ledger journal. Otherwise, the calculated entries are transferred to the fixed asset journal. You can then review the entries and post the journal.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action CalculateDepreciation - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 3022971359 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>C&amp;opy Fixed Asset</source>
+          <target state="translated">Kopēt pamatlīdzekli</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action C&amp;opy Fixed Asset - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 3022971359 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create one or more new fixed assets by copying from an existing fixed asset that has similar information.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action C&amp;opy Fixed Asset - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1882025967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mass Assign</source>
+          <target state="translated">Masveida piesaistīšana</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Mass Assign - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2097472333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign Employee</source>
+          <target state="translated">Piesaistīt darbinieku</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Assign Employee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 465588448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assign Location</source>
+          <target state="translated">Piesaistīt novietojumu</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Assign Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1498746481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Assets List</source>
+          <target state="translated">PL saraksts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Assets List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1498746481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the list of fixed assets that exist in the system .</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Fixed Assets List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 54408165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Acquisition List</source>
+          <target state="translated">PL iepirkumu saraksts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Acquisition List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 54408165 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the related acquisitions.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Acquisition List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target state="translated">Detaļas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 318613646 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed information about the fixed asset ledger entries that have been posted to a specified depreciation book for each fixed asset.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Details - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 40833807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Book Value</source>
+          <target state="translated">PL grāmatvedības vērtība</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action FA Book Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 40833807 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed information about acquisition cost, depreciation and book value for both individual assets and groups of assets. For each of these three amount types, amounts are calculated at the beginning and at the end of a specified period as well as for the period itself.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action FA Book Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1934738091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Book Val. - Appr. &amp; Write-D</source>
+          <target state="translated">PL Grām. vērt. - Apst. un nor.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action FA Book Val. - Appr. &amp; Write-D - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1934738091 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View detailed information about acquisition cost, depreciation, appreciation, write-down and book value for both individual assets and groups of assets. For each of these categories, amounts are calculated at the beginning and at the end of a specified period, as well as for the period itself.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action FA Book Val. - Appr. &amp; Write-D - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1746372166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analysis</source>
+          <target state="translated">Analīze</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 1746372166 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View an analysis of your fixed assets with various types of data for both individual assets and groups of fixed assets.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Analysis - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2473572361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Projected Value</source>
+          <target state="translated">Projekta vērtība</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Projected Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2473572361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the calculated future depreciation and book value. You can print the report for one depreciation book at a time.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Projected Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2248694202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>G/L Analysis</source>
+          <target state="translated">V/G analīze</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action G/L Analysis - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 2248694202 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View an analysis of your fixed assets with various types of data for individual assets and/or groups of fixed assets.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action G/L Analysis - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 4149417275 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register</source>
+          <target state="translated">Reģistrs</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Register - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - Action 4149417275 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View registers containing all the fixed asset entries that are created. Each register shows the first and last entry number of its entries.</source>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - Action Register - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - NamedType 2805750718" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No filters applied. Apply a filter and try again.</source>
+          <target state="translated">Nav definēti filtri. Pielietojiet filtrus un mēģiniet vēlreiz.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - NamedType AB001</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - NamedType 892660867" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Apply %1 to %2 records?</source>
+          <target state="translated">Attiecināt %1 %2 ierakstiem?</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - NamedType AB002</note>
+        </trans-unit>
+        <trans-unit id="Page 413375266 - NamedType 1530357484" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 records updated.</source>
+          <target state="translated">%1 ieraksti ir atjaunoti.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Fixed Asset Selection - NamedType AB003</note>
+        </trans-unit>
+        <trans-unit id="Page 1345049267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Disposal Journal Selection</source>
+          <target state="translated">PL Likvidācijas žurnālu atlase</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Disposal Journal Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1345049267 - Control 277202185 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Jnl. Template</source>
+          <target state="translated">PL žurnāla veidne</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Disposal Journal Selection - Control FA Jnl Template - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1345049267 - Control 3554215103 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Jnl. Batch</source>
+          <target state="translated">PL žurnāla iedaļa</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Disposal Journal Selection - Control FA Jnl. Batch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1345049267 - Control 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="translated">Grāmatošanas datums</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FA Disposal Journal Selection - Control Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1283208023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Act Receipt Act</source>
+          <target state="translated">PL pieņemšanas akts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FA Receipt Act - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2375947221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Inventory Act</source>
+          <target state="translated">PL inventarizācijas akts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FA Inventory Act - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3876879630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Transfer Act</source>
+          <target state="translated">PL pārvietošanas akts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FA Transfer Act - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3876879630 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="translated">Opcijas</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FA Transfer Act - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3876879630 - Control 2078168799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Commission Members</source>
+          <target state="translated">Rādīt komisijas locekļus</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FA Transfer Act - Control ShowCommision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2370080346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FA Disposal Act</source>
+          <target state="translated">PL norakstīšanas akts</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FA Disposal Act - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2317212110 - Action 2317212110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>FA Acts</source>
+          <target state="translated">PL akti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FA Acts - Action FA Acts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2317212110 - Action 1558166397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3470244815">
+          <source>FA Documents</source>
+          <target state="translated">PL dokumenti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension FA Acts - Action FA Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1858022559 - Action 2317212110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 949348664">
+          <source>FA Acts</source>
+          <target state="translated">PL akti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Fixed Asset List Extension - Action FA Acts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1858022559 - Action 1558166397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 949348664">
+          <source>FA Documents</source>
+          <target state="translated">PL dokumenti</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Fixed Asset List Extension - Action FA Documents - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

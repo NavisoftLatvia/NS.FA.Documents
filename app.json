@@ -1,24 +1,37 @@
 {
   "id": "5bdf9707-0066-404b-a67d-96641cc5fed1",
-  "name": "Fixed Asset Acts By Navisoft",
-  "publisher": "Navisoft",
+  "name": "Fixed Asset Acts",
+  "publisher": "Sintegra",
   "brief": "",
   "description": "",
   "version": "1.0.0.0",
-  "privacyStatement": "http://www.navisoft.lv/privacy-policy.php",
-  "EULA": "http://www.navisoft.lv/privacy-policy.php",
-  "help": "http://www.navisoft.lv/privacy-policy.php",
-  "url": "http://www.navisoft.lv",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.sintegra.lv",
   "logo": "logo.jpg",
-  "capabilities": [],
-  "dependencies": [],
+  "dependencies": [
+    {
+      "appId": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "appId": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "15.0.0.0"
+    }
+  ],
   "screenshots": [],
-  "platform": "13.0.0.0",
-  "application": "13.0.0.0",
+  "platform": "15.0.0.0",
   "idRange": {
-    "from": 50280,
-    "to": 50290
+    "from": 25028386,
+    "to": 25028395
   },
-  "runtime": "2.4",
-  "showMyCode":true
+  "contextSensitiveHelpUrl": "https://test.com/help/",
+  "runtime": "4.0",
+  "showMyCode": true,
+  "features": [ "TranslationFile"]
 }

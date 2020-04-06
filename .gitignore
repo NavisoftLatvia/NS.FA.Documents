@@ -1,1 +1,7 @@
 *.app
+.vs/ProjectSettings.json
+.vscode/*
+.vscode/.alcache/cache_66c37ad25d920374e7c3c8644d68ebe3865b284182934f969a7f5b0156588416.json
+.vs/*
+.vscode/launch.json
+.gitignore
